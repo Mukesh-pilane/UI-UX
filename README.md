@@ -1,9 +1,10 @@
-### UI/UX GPT-3 Figma ###
-- - - -
+## UI/UX GPT-3 Figma ##
 ### Tecnology ###
 - React 
-#### Installation ####
+### Installation ###
 - Clone the repo
 - `$ npm install`
+### Live site ####
+[link](https://uiuxgpt3.herokuapp.com/)
 ### Figma design ###
-[Link](https://github.com**https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1)
+[Link](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3)
